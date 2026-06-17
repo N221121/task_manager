@@ -1,6 +1,6 @@
-## 📝 Task Manager App (Full Stack)
-
-A full-stack Task Management Application built using the MERN stack that helps users create, update, delete, and track tasks efficiently with activity logging.
+## 📝 Task Manager App 
+A full-stack Task Management Application built using the MERN stack that helps users create, update, delete, and track tasks 
+efficiently with activity logging.
 
 ## 🚀 Features
 ➕ Create new tasks
@@ -35,7 +35,6 @@ task_manager/
 │   ├── models/
 │   │   ├── Task.js
 │   │  
-│   │
 │   ├── routes/
 │   │   └── taskRoute.js
 │   │
@@ -61,7 +60,7 @@ task_manager/
 └── .gitignore
 
 ## Clone the repository
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/N221121/task_manager.git
 cd task-manager
 
 ## Backend setup
